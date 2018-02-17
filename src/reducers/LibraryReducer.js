@@ -1,3 +1,3 @@
-import LibraryList from 'LibraryList.json'
+import LibraryList from './LibraryList.json'
 
 export default () => LibraryList
